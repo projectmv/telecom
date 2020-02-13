@@ -1,3 +1,18 @@
+[{
+    "collumn": "probeid",
+    "comment": "codigo de probe xptp",
+    "type": "string" 
+},
+{
+    "collumn": "starttime",
+    "comment": "codigo de probe xptp",
+    "type": "datetime" 
+}
+
+
+]
+
+
 probeid
 starttime
 endtime
